@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1>This is an Accordion Project</h1>
+      <h1>This is an Accordion Project in React</h1>
     </>
   );
 }
